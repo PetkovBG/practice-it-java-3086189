@@ -3,6 +3,7 @@ package _01_02b;
 public class Employee {
 
   public static void main(String[] args) {
+    System.out.println("Hello");
 
     // Create a variable called age of type int and assign it the value 29.
 
