@@ -11,7 +11,7 @@ public class Employee {
     System.out.println(age);
     // Create a variable called isAManager of type boolean and assign it the value
     // true.
-        boolean isAManager = false;
+        boolean isAManager = true;
     // Print the isAManager variable to the console.
       System.out.println(isAManager);
     // Create a variable called yearsOfService of type double and assign it the
@@ -32,9 +32,7 @@ public class Employee {
     // Print the totalPayment variable to the console.
       System.out.println(totalPayment);
     // Create three variables all of type double on a single line.
-        double firstBonus = 10;
-        double secondBonus = 22;
-        double thirdBonus = 35;
+        double firstBonus = 10, secondBonus = 22, thirdBonus = 35;
     // They should be called firstBonus, secondBonus and thirdBonus and they should
     // be assigned the values 10.00, 22.00 and 35.00.
 
